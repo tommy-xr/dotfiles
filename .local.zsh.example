@@ -1,0 +1,11 @@
+# Machine-specific config
+# Copy to .local.zsh and customize
+
+# Add machine-specific jump shortcuts
+J_SHORTCUTS+=(
+    sd   ~/code/sdcanvas
+    shk  ~/code/shock2quest
+)
+
+# Machine-specific aliases
+# alias myrepo='chrome "https://github.com/myorg/$1"'
